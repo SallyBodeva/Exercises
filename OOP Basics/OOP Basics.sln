@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex03-SJ-Simple Calculator",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex4-SJ- Print Even Numbers", "Ex4-SJ- Print Even Numbers\Ex4-SJ- Print Even Numbers.csproj", "{119B506A-63A5-4087-A596-444D0B1831F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05-SJ-Supermarket-Kaufland", "Ex05-SJ-Supermarket-Kaufland\Ex05-SJ-Supermarket-Kaufland.csproj", "{66B4DFFC-B405-4446-8752-8D7A6AA0CC36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex05-SJ-Supermarket-Kaufland", "Ex05-SJ-Supermarket-Kaufland\Ex05-SJ-Supermarket-Kaufland.csproj", "{66B4DFFC-B405-4446-8752-8D7A6AA0CC36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06-SJ-Trafiic Jam", "Ex06-SJ-Hot Potato\Ex06-SJ-Trafiic Jam.csproj", "{F6DB868F-F11A-48CA-9527-5E4DD59B70C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex06-SJ-Trafiic Jam", "Ex06-SJ-Hot Potato\Ex06-SJ-Trafiic Jam.csproj", "{F6DB868F-F11A-48CA-9527-5E4DD59B70C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex0.01-SJ Basic Stack Operations", "Ex0.01-SJ Basic Stack Operations\Ex0.01-SJ Basic Stack Operations.csproj", "{F1D012DE-4749-4937-A143-3DB447830ED9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex0.02-SJ-Fast food", "Ex0.02-SJ-Fast food\Ex0.02-SJ-Fast food.csproj", "{889C929F-647E-46BD-8E1A-008122167373}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{F6DB868F-F11A-48CA-9527-5E4DD59B70C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6DB868F-F11A-48CA-9527-5E4DD59B70C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6DB868F-F11A-48CA-9527-5E4DD59B70C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D012DE-4749-4937-A143-3DB447830ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D012DE-4749-4937-A143-3DB447830ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D012DE-4749-4937-A143-3DB447830ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D012DE-4749-4937-A143-3DB447830ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889C929F-647E-46BD-8E1A-008122167373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889C929F-647E-46BD-8E1A-008122167373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889C929F-647E-46BD-8E1A-008122167373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889C929F-647E-46BD-8E1A-008122167373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
